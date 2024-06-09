@@ -1,0 +1,2 @@
+[2024-06-09 15:36:24,437] 1027 httpx - INFO - HTTP Request: POST https://api.together.ai/v1/chat/completions "HTTP/1.1 200 OK"
+[2024-06-09 15:36:34,125] 1027 httpx - INFO - HTTP Request: POST https://api.together.ai/v1/chat/completions "HTTP/1.1 200 OK"
